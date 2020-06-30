@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #url(../imagenes/123q.jpg)#;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+   
+    
+}
+header, .main, footer{
+    background: white;
+    width: 100  % ;
+    max-width: 1540px;
+    margin: 0px auto;
+
+
+
+}
+
+h2, h3{
+    text-align: center;
+}
+
+
+header img{
+    height: 60px;
+    width: 300px;
+    border-radius: 30%;
+    margin-top: 5px;
+
+}
+
+.banner{
+    display:block;
+    width: 1350px;
+    height: 200px;
+}
+
+div .wallpapers{
+    width: 420px;
+    margin-right: 5px 2px;
+    padding-left: 20px;
+}
+
+
+header nav{
+    background-color:#000;
+    overflow: hidden;
+    height: 70px;
+    font-style: oblique;
+    font-size: 23px;
+}
+
+header nav ul{
+    list-style: none;
+    float: right;
+}
+
+header nav ul li{
+    float: left;
+}
+header nav ul li a{
+    padding: 10px 20px;
+    display: block;
+    color: white;
+    text-decoration: none;
+
+    
+}
+header nav ul li a:hover{
+    background: #02105d    ;
+}
+
+
+.main .article article{
+    padding: 20px;
+    background: #ffffff;
+    margin-bottom: 20px;
+    
+}
+
+.main .article{
+    width: 100%;
+    float: right;
+    background-color: #ffffff;
+    margin-right: %;
+}
+aside{
+    width: 30%;
+    float: left;
+    background: #ffffff;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.style{
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
+    
+}
+
+
+
+
+
+footer{
+    background: black;
+    color: #ffffff;
+    clear: both;
+    text-align: center;
+    padding: 10px 0px;
+
+}
+
+
